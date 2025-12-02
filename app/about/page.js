@@ -20,13 +20,13 @@ export default function About() {
           {/* Bio */}
           <div>
             <p className="text-lg text-black dark:text-white leading-relaxed mb-4">
-              I've always been drawn to the intersection of design and code. There's something satisfying about taking an idea and watching it come to life in the browser whether that's a simple animation that makes someone smile or a feature that solves a real problem.
+              I&apos;ve always been drawn to the intersection of design and code. There&apos;s something satisfying about taking an idea and watching it come to life in the browser whether that&apos;s a simple animation that makes someone smile or a feature that solves a real problem.
             </p>
             <p className="text-lg text-black dark:text-white leading-relaxed mb-4">
-              I work on both the visual side of things and the logic that makes everything tick. I like building things that look good and actually work well, without the jargon. If something I make feels intuitive and looks clean, I've done my job.
+              I work on both the visual side of things and the logic that makes everything tick. I like building things that look good and actually work well, without the jargon. If something I make feels intuitive and looks clean, I&apos;ve done my job.
             </p>
             <p className="text-lg text-black dark:text-white leading-relaxed">
-              Outside of work, I'm usually tinkering with new tools, working on side projects, or learning something completely unrelated. I'm always up for interesting projects and conversations about what we're building.
+              Outside of work, I&apos;m usually tinkering with new tools, working on side projects, or learning something completely unrelated. I&apos;m always up for interesting projects and conversations about what we&apos;re building.
             </p>
           </div>
         </div>

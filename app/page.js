@@ -20,7 +20,7 @@ export default function Home() {
           </div>
           
           <h1 className="text-7xl md:text-8xl font-bold mb-6 text-black dark:text-white animate-slide-down">
-            Hi, I'm{' '}
+            Hi, I&apos;m{' '}
             <span className="bg-gradient-to-r from-green-500 to-green-600 dark:from-red-500 dark:to-red-600 bg-clip-text text-transparent">
               Siquil Ward
             </span>
