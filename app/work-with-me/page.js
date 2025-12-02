@@ -75,13 +75,13 @@ export default function WorkWithMe() {
         {/* Hero Section */}
         <div className="text-center mb-16 animate-fade-in">
           <h1 className="text-6xl md:text-7xl font-bold mb-6 text-black dark:text-white animate-slide-down">
-            Let's Work{' '}
+            Let&apos;s Work{' '}
             <span className="bg-gradient-to-r from-green-500 to-green-600 dark:from-red-500 dark:to-red-600 bg-clip-text text-transparent">
               Together
             </span>
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto leading-relaxed animate-fade-in-delay">
-            I'm always open to new projects, collaborations, and opportunities. Whether you need a website, web app, or just want to chat about an idea, let's connect.
+            I&apos;m always open to new projects, collaborations, and opportunities. Whether you need a website, web app, or just want to chat about an idea, let&apos;s connect.
           </p>
         </div>
 
@@ -117,7 +117,7 @@ export default function WorkWithMe() {
               <div className="text-4xl mb-4">💡</div>
               <h3 className="text-2xl font-bold mb-3 text-black dark:text-white">Consultation</h3>
               <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-                Need advice on a project? Let's discuss your ideas, review code, or brainstorm solutions together.
+                Need advice on a project? Let&apos;s discuss your ideas, review code, or brainstorm solutions together.
               </p>
             </div>
           </div>
@@ -134,7 +134,7 @@ export default function WorkWithMe() {
               <div>
                 <h3 className="text-xl font-bold mb-2 text-black dark:text-white">Discovery</h3>
                 <p className="text-gray-600 dark:text-gray-300">
-                  We'll start by discussing your goals, target audience, and what you're looking to build. Understanding the problem is the first step to a great solution.
+                  We&apos;ll start by discussing your goals, target audience, and what you&apos;re looking to build. Understanding the problem is the first step to a great solution.
                 </p>
               </div>
             </div>
@@ -146,7 +146,7 @@ export default function WorkWithMe() {
               <div>
                 <h3 className="text-xl font-bold mb-2 text-black dark:text-white">Planning & Design</h3>
                 <p className="text-gray-600 dark:text-gray-300">
-                  I'll create wireframes and designs to visualize the solution. We'll iterate until it feels right before writing any code.
+                  I&apos;ll create wireframes and designs to visualize the solution. We&apos;ll iterate until it feels right before writing any code.
                 </p>
               </div>
             </div>
@@ -158,7 +158,7 @@ export default function WorkWithMe() {
               <div>
                 <h3 className="text-xl font-bold mb-2 text-black dark:text-white">Development</h3>
                 <p className="text-gray-600 dark:text-gray-300">
-                  Building with clean, maintainable code. I'll keep you updated throughout the process and welcome your feedback.
+                  Building with clean, maintainable code. I&apos;ll keep you updated throughout the process and welcome your feedback.
                 </p>
               </div>
             </div>
@@ -170,7 +170,7 @@ export default function WorkWithMe() {
               <div>
                 <h3 className="text-xl font-bold mb-2 text-black dark:text-white">Launch & Support</h3>
                 <p className="text-gray-600 dark:text-gray-300">
-                  Once everything is polished and tested, we'll launch. I'm here to help with any adjustments or questions afterward.
+                  Once everything is polished and tested, we&apos;ll launch. I&apos;m here to help with any adjustments or questions afterward.
                 </p>
               </div>
             </div>
@@ -203,7 +203,7 @@ export default function WorkWithMe() {
               <div>
                 <h3 className="text-xl font-bold mb-3 text-black dark:text-white">💬 Clear Communication</h3>
                 <p className="text-gray-700 dark:text-gray-300">
-                  No jargon, no confusion. I'll explain things clearly and keep you in the loop every step of the way.
+                  No jargon, no confusion. I&apos;ll explain things clearly and keep you in the loop every step of the way.
                 </p>
               </div>
             </div>
@@ -216,7 +216,7 @@ export default function WorkWithMe() {
             <div className="text-center mb-8">
               <h2 className="text-4xl font-bold mb-4 text-black dark:text-white">Ready to Get Started?</h2>
               <p className="text-xl text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
-                Let's talk about your project. Fill out the form below and i will reply promptly within 24 hours.
+                Let&apos;s talk about your project. Fill out the form below and I will reply promptly within 24 hours.
               </p>
             </div>
 
